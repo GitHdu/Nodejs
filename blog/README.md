@@ -1,6 +1,6 @@
 # blog
 
-##开发环境  
+## 开发环境  
 * Express
 * mongoDB
 * ejs
