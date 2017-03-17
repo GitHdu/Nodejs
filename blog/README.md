@@ -1,6 +1,9 @@
 # blog
 
-@(开发环境)[Express|mongoDB|ejs]
+##开发环境  
+* Express
+* mongoDB
+* ejs
 
 > A Node.js project
 
